@@ -28,5 +28,5 @@ O objetivo é simular o site de uma **startup de tecnologia**, com foco em **des
 
 ---
 
-![imagem]()
+![imagem](https://github.com/moisesvinicius404/gostartup/blob/main/img-gostartup.png)
 
